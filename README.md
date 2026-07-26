@@ -5,7 +5,8 @@ This is my solution to the [QR code component challenge on Frontend Mentor](http
 
 ### Screenshot
 
-![alt text](image.png)
+<img width="1920" height="1034" alt="Screenshot_20260726_190810" src="https://github.com/user-attachments/assets/447f22f4-8406-47b5-aff0-d4ce77a33c04" />
+
 
 ### Links
 
