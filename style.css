@@ -1,10 +1,11 @@
-@import url('https://fonts.googleapis.com/css2?family=Saira:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
 body {
     margin: 0;
     padding: 0;
-    font-family: "Saira", sans-serif;
+    font-family: "Outfit", sans-serif;
     min-height: 100vh;
     background-color: #D4E0EE;
+    font-size: 15px;
 }
 
 .container {
@@ -29,14 +30,17 @@ img {
 
 h2 {
     color: #27303F;
+    font-weight: 700;
+
 }
 
 p {
-    font-weight: 100;
+    font-weight: 400;
 }
 
 h2, p {
     text-align: center;
 }
+
 
 
